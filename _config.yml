@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Germany"
 site_theme               : "default"
-title                    : "Zuofeng Yuan / Site Title"
+title                    : "Zuofeng Yuan / Engineer "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
