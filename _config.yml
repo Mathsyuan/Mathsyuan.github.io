@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Germany"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "DeepAgr"
+  uri              : "http://www.shennongai.com"
   email            : "Zuofeng.yuann@gmail.com" 
 
   # Academic websites
